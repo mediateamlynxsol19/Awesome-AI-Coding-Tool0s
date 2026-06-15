@@ -14,7 +14,7 @@
 ---
 
 # NeuroNest AI Coding Innovation Platform
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI coding innovation platform created to help developers build, test, debug, and improve software with smarter workflows. It supports code assistance, security review, DevOps automation, research, and project planning, making it a useful tool for teams that want to speed up development with AI-powered agents.
 
